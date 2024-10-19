@@ -1,0 +1,9 @@
+{
+    "author": "anon",
+    "minRam": 4,
+    "maxRam": 6,
+    "worldBackupUrl": "https://github.com/vctorfarias/minecraft-server-01",
+    "worldLogUrl": "https://github.com/vctorfarias/minecraft-log-1",
+    "worldName": "minecraft-server-01",
+    "logName": "minecraft-log-1"
+}
