@@ -11,6 +11,8 @@ log_name = ''
 
 
 def main():
+    read_json_config()
+    
     if len(sys.argv) == 1:
         start()
     elif sys.argv[1] == '-c':
@@ -205,8 +207,6 @@ def start():
 
     Does not return anything.
     """
-    read_json_config()
-
     if not os.path.exists(f"{log_name}") or len(os.listdir(f"{log_name}")) == 0:
         download_log()
     else:
