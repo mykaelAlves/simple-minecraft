@@ -1,6 +1,6 @@
 {
-    "author": "undefined",
-    "minRam": 4,
+    "author": "mykael",
+    "minRam": 1,
     "maxRam": 6,
     "worldBackupUrl": "https://github.com/vctorfarias/minecraft-server-01",
     "worldLogUrl": "https://github.com/vctorfarias/minecraft-log-1",
